@@ -63,7 +63,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Day5\Day6.csproj">
+    <ProjectReference Include="..\Day6\Day6.csproj">
       <Project>{29AD6BD6-C018-4EF9-8F83-A11B6246976B}</Project>
       <Name>Day6</Name>
     </ProjectReference>

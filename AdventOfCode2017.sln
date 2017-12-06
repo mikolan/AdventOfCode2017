@@ -13,9 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2Tests", "Day2Tests\Day2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3", "Day3\Day3.csproj", "{3125B10B-F928-4CB2-9A51-E4B2CE15F8C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6", "Day5\Day6.csproj", "{29AD6BD6-C018-4EF9-8F83-A11B6246976B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6", "Day6\Day6.csproj", "{29AD6BD6-C018-4EF9-8F83-A11B6246976B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6Tests", "Day5Tests\Day6Tests.csproj", "{B1A00B18-1532-4808-B342-6634D422E4A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6Tests", "Day6Tests\Day6Tests.csproj", "{B1A00B18-1532-4808-B342-6634D422E4A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
