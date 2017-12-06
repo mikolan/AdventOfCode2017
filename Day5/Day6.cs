@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day5
+namespace Day6
 {
-    public class Day5
+    public class Day6
     {
         private class ArrayComparer : IEqualityComparer<int[]>
         {
