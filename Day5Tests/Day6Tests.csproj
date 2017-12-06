@@ -56,16 +56,16 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
-    <Compile Include="Day5Tests.cs" />
+    <Compile Include="Day6Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Day5\Day5.csproj">
+    <ProjectReference Include="..\Day5\Day6.csproj">
       <Project>{29AD6BD6-C018-4EF9-8F83-A11B6246976B}</Project>
-      <Name>Day5</Name>
+      <Name>Day6</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
